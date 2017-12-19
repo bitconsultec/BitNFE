@@ -41,7 +41,7 @@ by telephone:
 *********************************************************************************************************
 =================================================================================
 
-INSTALAÇÃO                                                                                                                               
+INSTALAÇÃO:                                                                                                                             
   A)Descompacte o diretório "BitNFE" na unidade "C:"                                                                                     
     para utilizar a aplicação já compilada no diretório.                                                                                 
 
