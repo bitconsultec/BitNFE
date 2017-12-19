@@ -43,7 +43,7 @@ by telephone:
 
 INSTALAÇÃO
   A)Descompacte o diretório "BitNFE" na unidade "C:"
-    para utilizar a aplicação já compilada.
+    para utilizar a aplicação já compilada no diretório.
 
 NOTA:
   A)Esta aplicação foi desenvolvida em Delphi,
