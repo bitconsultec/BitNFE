@@ -19,8 +19,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 To contact someone from BITCONSULTEC:                                                                                                   
 
-by email:                                                                                                                               
-  PROGRAMMER                                                                                                                             
+by email:                                                                                                                                 PROGRAMMER                                                                                                                             
   Reginaldo Silva Alves                                                                                                                 
     bitconsultec.br@gmail.com                                                                                                           
 
@@ -37,9 +36,9 @@ by telephone:
   Felipe Noronha                                                                                                                         
     +55 21 971939674                                                                                                                     
 
-========================================================================================================================================
-****************************************************************************************************************************************
-========================================================================================================================================
+=========================================================================================================
+*********************************************************************************************************
+=========================================================================================================
 
 INSTALAÇÃO                                                                                                                               
   A)Descompacte o diretório "BitNFE" na unidade "C:"                                                                                     
@@ -49,9 +48,9 @@ NOTA:
   A)Esta aplicação foi desenvolvida em Delphi,                                                                                           
     e possui três componentes. São eles:                                                                                                 
 
-    1º)TACBrNFe                                                                                                                         
-    2º)TACBrNFeDANFEFR                                                                                                                   
-    3º)TOpenDialog                                                                                                                       
+    1º)TACBrNFe
+    2º)TACBrNFeDANFEFR
+    3º)TOpenDialog
 
   B)Os componentes TACBrNFe e TACBrNFeDANFEFR foram licenciados                                                                         
     pelo Projeto ACBr, sob a GNU Lesser General Public License                                                                           
